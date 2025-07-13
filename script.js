@@ -22,7 +22,7 @@ let currentMode = 'ask';
 let chatHistory = [];
 let challengeState = { questions: [], currentQuestionIndex: 0, awaitingAnswer: false };
 
-const API_KEY = "AIzaSyAX15i_LAzyuVsVRcM9QHFjAxDhxlNDJZI";
+const API_KEY = "Paste your API Key here ";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 themeToggle.addEventListener('click', () => {

@@ -20,7 +20,7 @@ I built this to make reading, understanding, and exploring documents much easier
 - **AI Model**: OpenAI GPT-3.5, Google Gemini, or any compatible API (configurable)
 - **Icons**: Font Awesome
 
-  ## 📸 Previw and Demo :
+## 📸 Previw and Demo :
 
 > 📽️ **Demo Video:**  
 > [![Watch the demo](https://img.youtube.com/vi/5A8v6MBVp5o/hqdefault.jpg)](https://youtu.be/IKb-lF-b3zc?si=HCRI7WYTlO83Dea6)
